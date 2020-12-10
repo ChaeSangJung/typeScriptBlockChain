@@ -17,3 +17,5 @@ Learning Typescript by making a Blockchain with it
   - 속성(string, number, bollean)과 속성들이 가지고 있는 권한(public, private)을 설정
   - public, private : js에서는 신경을 안씀
     - private : class 내부에서만 접근 가능
+- typescript import 과정
+  - import *(everything) as Crypto form "crypto-js";
